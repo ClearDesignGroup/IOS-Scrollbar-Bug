@@ -1,0 +1,7 @@
+{
+  "name": "Scrollbar-iOS-Bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
